@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=14.18.1"
+  },
   "scripts": {
     "test": "echo \"Hello, World\" && exit 0"
   },
